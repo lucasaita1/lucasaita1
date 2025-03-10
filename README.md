@@ -1,6 +1,7 @@
 ### Olá! 👋 Eu sou Lucas Prates Aita  
-**Desenvolvedor Back-End em formação**  
+**Desenvolvedor Back-End**  
 
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas  
 🌱 Atualmente aprimorando minhas habilidades em **Java, Spring Boot e Bancos de Dados**  
 👨‍💻 Todos os meus projetos estão disponíveis no meu GitHub: [lucasaita1](https://github.com/lucasaita1)  
 📫 Como entrar em contato comigo: **lucasaita4000@gmail.com**  
@@ -22,6 +23,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
