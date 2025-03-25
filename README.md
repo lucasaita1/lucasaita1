@@ -5,7 +5,7 @@
 🌱 Atualmente aprimorando minhas habilidades em **Java, Spring Boot e Bancos de Dados**  
 👨‍💻 Todos os meus projetos estão disponíveis no meu GitHub: [lucasaita1](https://github.com/lucasaita1)  
 📫 Como entrar em contato comigo: **lucasaita4000@gmail.com**  
-⚡ **Curiosidade:** Sou engraçado e entendo muito sobre **musculação e culinária**!  
+⚡ **Curiosidade:** Decidi entrar para a área tech depois de um feito lendário: reiniciei o roteador de casa, fiz a internet voltar e fui ovacionado no almoço de família haha! Fora da tecnologia, sou fã de musculação e culinária.
 
 ---
 
