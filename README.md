@@ -12,7 +12,7 @@
 📫 Como entrar em contato comigo: **lucasaita4000@gmail.com**  
 
 ⚡ **Curiosidade:** Minha entrada no mundo tech foi lendária: reiniciei o roteador, fiz a internet voltar e fui ovacionado no almoço de família 😂
-Fora da tecnologia, sou fissurado por musculação e culinária de verdade.
+Fora da tecnologia, sou fissurado por musculação, culinária e games 
 
 ---
 
