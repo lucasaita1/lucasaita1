@@ -23,13 +23,10 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,py,mysql,postgres,git,apple,linux)](https://skillicons.dev)
 
-
-#### 🎨 Front-End & Scripts
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)
 
 
 ---
