@@ -9,7 +9,6 @@
 
 🚀 Foco em performance, organização e crescimento contínuo.
 
-📫 Como entrar em contato comigo: **lucasaita4000@gmail.com**  
 
 ⚡ **Curiosidade:** Minha entrada no mundo tech foi lendária: reiniciei o roteador, fiz a internet voltar e fui ovacionado no almoço de família 
 
@@ -17,11 +16,6 @@
 
 ---
 
-### 🚀 Conecte-se comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasp.aita)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aita/)
-
----
 
 
 
@@ -29,8 +23,11 @@
 
 
 
+
 ---
 
-<div align="center">
-  🚀 Sempre buscando evoluir e aprender mais! 🚀  
-</div>
+### 🚀 Conecte-se comigo:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasp.aita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aita/)
+
+
