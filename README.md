@@ -17,13 +17,16 @@
 ---
 
 
-
-
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,py,mysql,postgres,git,apple,linux)](https://skillicons.dev)
 
 
 
-[![lucasaita1 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasaita1&theme=transparent&hide=contribs,&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lucasaita1&show_icons=true&theme=transparent&hide_border=true&title_color=2f80edicon_color=2f80ed" />
+</p>
 
 
 
