@@ -21,6 +21,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,py,mysql,postgres,git,apple,linux)](https://skillicons.dev)
 
+---
+
+[![lucasaita1 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasaita1&hide=contribs,&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
