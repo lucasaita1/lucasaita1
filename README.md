@@ -41,7 +41,7 @@
 ### 💻 Tech and Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,postgres,redis,mongodb,docker,git,apple,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,postgres,redis,mongodb,docker,git,idea,apple,linux)](https://skillicons.dev)
 
 ---
 
