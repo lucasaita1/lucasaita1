@@ -42,8 +42,13 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,postgres,redis,mongodb,docker,git,apple,linux)](https://skillicons.dev)
-
+     
+      
 ---
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=lucasaita1&count_private=true&show_icons=true&theme=prussian" />
+</p>
 
 
 
