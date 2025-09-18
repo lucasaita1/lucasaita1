@@ -45,11 +45,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucasaita1&show_icons=true&theme=transparent&hide_border=true&title_color=2f80edicon_color=2f80ed" />
-</p>
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟢
