@@ -27,7 +27,7 @@
 
 ### 🧠 About Me
 
-- 🔧 Back-End Developer passionate about solving problems through code.
+- 🔧 Full Stack Developer passionate about solving problems through code.
 
 - 🎓 Graduated in Systems Analysis and Development.
 
