@@ -1,7 +1,7 @@
 # <h1 align="center">Hello, I'm Lucas Aita 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Java enthusiast • Back-end Developer</em>
+  <em>Software Engineer • Java enthusiast • Full Stack Developer</em>
 </p>
 
 <p align="center">
@@ -45,11 +45,6 @@
      
       
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasaita1&count_private=true&show_icons=true&theme=prussian" />
-</p>
-
 
 
 <p align="center">
